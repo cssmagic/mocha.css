@@ -1,4 +1,9 @@
-mocha.css
-=========
+# mocha.css
 
-Styling mocha testing page.
+Responsive mocha page.
+
+***
+
+## License
+
+[MIT License](http://www.opensource.org/licenses/mit-license.php)

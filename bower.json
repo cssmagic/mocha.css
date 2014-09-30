@@ -1,0 +1,33 @@
+{
+  "name": "mocha.css",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cssmagic/mocha.css",
+  "authors": [
+    "cssmagic"
+  ],
+  "description": "Responsive mocha page.",
+  "main": "src/mocha.css",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "mocha",
+    "responsive",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "**.sh",
+    "**.min.js",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}

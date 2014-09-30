@@ -1,4 +1,4 @@
-# mocha.css
+# Mocha.css
 
 Responsive mocha page.
 

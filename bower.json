@@ -1,9 +1,8 @@
 {
   "name": "mocha.css",
-  "version": "0.1.0",
   "homepage": "https://github.com/cssmagic/mocha.css",
   "authors": [
-    "cssmagic"
+    "cssmagic <cssmagic.cn@gmail.com>"
   ],
   "description": "Responsive mocha page.",
   "main": "src/mocha.css",

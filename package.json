@@ -1,0 +1,25 @@
+{
+  "name": "mocha.css",
+  "version": "0.1.1",
+  "homepage": "https://github.com/cssmagic/mocha.css",
+  "repository": "github:cssmagic/mocha.css",
+  "author": "cssmagic <cssmagic.cn@gmail.com>",
+  "description": "Responsive mocha page.",
+  "main": "./src/mocha.css",
+  "keywords": [
+    "mocha",
+    "responsive",
+    "css"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "mocha": "*"
+  }
+}
